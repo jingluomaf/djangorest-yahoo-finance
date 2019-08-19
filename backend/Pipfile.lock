@@ -477,7 +477,7 @@
                 "sha256:fa2c04c2d68a9be7fc3975ba4947f653a57a656776f24be58ff0fe4b9aaf3e52"
             ],
             "markers": "python_version != '3.4'",
-            "version": "==19.2.1"
+            "version": ">=19.7.0"
         },
         "urllib3": {
             "hashes": [
